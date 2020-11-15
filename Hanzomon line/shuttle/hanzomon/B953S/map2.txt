@@ -1,0 +1,25 @@
+BveTs Map 2.02:sjis
+//953S
+
+Structure.Load('../Structures.txt');
+Signal.Load('../Signals.csv');
+Sound.Load('../Sounds.txt');
+Sound3D.Load('../Sounds3D.txt');
+Station.Load('Stations2.txt');
+
+//路線データ
+include '../route/map2A0.txt';
+include '../route/map1.txt';
+include '../route/map0.txt';
+
+//先行・対向列車設定
+include 'train2.txt';
+
+//種別設定
+include '../service/53s.txt';
+//自動放送
+
+//電鈴					
+include '../service/c05.txt';
+
+include '../TASC/B953S.txt';

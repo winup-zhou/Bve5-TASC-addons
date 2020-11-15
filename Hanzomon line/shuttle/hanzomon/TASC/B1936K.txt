@@ -1,0 +1,120 @@
+BveTs Map 2.02
+
+0;
+                Beacon.Put(1001, -1, 2);
+
+#84470;  //押  上
+
+#	$dis=distance;
+#  	$dis-500;	Beacon.Put(1030, -1, 500000);
+#  	$dis-200;	Beacon.Put(1030, -1, 200000);
+#  	$dis-20;	Beacon.Put(1030, -1,  20000);
+# 	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+#85850;  //錦糸町
+
+#	$dis=distance;
+# 	$dis-500;	Beacon.Put(1030, -1, 500000);
+#  	$dis-200;	Beacon.Put(1030, -1, 200000);
+#  	$dis-20;	Beacon.Put(1030, -1,  20000);
+#  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+#86850;  //住　吉
+
+#	$dis=distance;
+#  	$dis-500;	Beacon.Put(1030, -1, 500000);
+#  	$dis-200;	Beacon.Put(1030, -1, 200000);
+#  	$dis-20;	Beacon.Put(1030, -1,  20000);
+#  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+88800;  //清澄白河
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+90501;  //水天宮前
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+91750;  //三越前
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+92520;  //大手町
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+94125;  //神保町
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+94600;  //九段下
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+96175;  //半蔵門
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+97125;  //永田町
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+98625;  //青山一丁目
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+100000;  //表参道
+
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
+
+101205;
+          Beacon.Put(12, -1, 70);
+          $dis=distance;
+          $dis-50; Beacon.Put(1006, -1, 50025);
+
+101275;  //渋　谷
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);

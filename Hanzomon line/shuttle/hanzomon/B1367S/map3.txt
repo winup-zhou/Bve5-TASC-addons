@@ -1,0 +1,28 @@
+BveTs Map 2.02:sjis
+//1367S
+
+
+
+
+Structure.Load('../Structures.txt');
+Signal.Load('../Signals.csv');
+Sound.Load('../Sounds.txt');
+Sound3D.Load('../Sounds3D.txt');
+Station.Load('Stations.txt');
+
+//路線データ
+include '../route/map2C.txt';
+include '../route/map1.txt';
+include '../route/map0.txt';
+
+//先行・対向列車設定
+include 'train.txt';
+
+//種別設定
+include '../service/67s.txt';
+//自動放送
+include '../service/aa_oshi.txt';
+//電鈴					
+include '../service/c13.txt';
+
+include '../TASC/B1367S.txt';

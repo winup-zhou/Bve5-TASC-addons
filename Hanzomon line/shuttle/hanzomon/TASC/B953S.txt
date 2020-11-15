@@ -1,0 +1,18 @@
+BveTs Map 2.02
+
+0;
+                Beacon.Put(1001, -1, 2);
+
+84470;  //押  上
+
+101205;
+          Beacon.Put(12, -1, 70);
+          $dis=distance;
+          $dis-50; Beacon.Put(1006, -1, 50025);
+
+101275;  //渋　谷
+	$dis=distance;
+  	$dis-500;	Beacon.Put(1030, -1, 500000);
+  	$dis-200;	Beacon.Put(1030, -1, 200000);
+  	$dis-20;	Beacon.Put(1030, -1,  20000);
+  	$dis-2;	  Beacon.Put(1030, -1,   2000);
